@@ -14,11 +14,10 @@ By the end of this workshop, students will know how to:
 * Learn the fundamentals of programming in Python or Chapel.
 * Understand parallel programming strategies, and write basic parallel code in Python or Chapel. 
 
-**NOTE: This is the draft HPC Carpentry release. Comments and feedback are welcome.** 
+**NOTE: This is the draft Monash Data Fluency Intro to HPC release. Comments and feedback are welcome.**
 
 > ## Prerequisites
 >
-> There are no real prerequisites for this lesson, 
-> but prior programming and/or command line experience will be helpful.
+> Prior command line experience is required for this workshop.
 {: .prereq}
 
